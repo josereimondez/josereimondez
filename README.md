@@ -48,7 +48,7 @@ Servidor Proxmox con 8 contenedores LXC: Plex, Sonarr/Radarr, Nginx Proxy Manage
 
 ---
 
-<!-- Snake animation: visual y divertido -->
+<!-- Frase motivacional/tecnológica aleatoria -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default" alt="Random Quote" />
 </p>
