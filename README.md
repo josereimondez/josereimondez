@@ -89,6 +89,8 @@ Me apasiona el **homelabbing**. Tengo un servidor con Proxmox donde gestiono mú
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josereimondez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&icon_color=7c3aed&text_color=8892a4" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=josereimondez&color=00d4ff&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
