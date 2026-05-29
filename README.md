@@ -99,5 +99,5 @@ Servidor Proxmox con 8 contenedores LXC: Plex, Sonarr/Radarr, Nginx Proxy Manage
 ---
 
 <p align="center">
-  <img src="assets/banner.gif" alt="Banner animado de José M. Reimóndez" width="100%" />
+  <img src="assets/yes-guy.gif" alt="Banner animado de José M. Reimóndez" width="100%" />
 </p>
