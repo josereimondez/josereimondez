@@ -2,7 +2,7 @@
 
 **AI & Automation Developer** · Soporte N2 · Full Stack · Big Data
 
-📍 A Coruña, España · 🟢 Open to work
+📍 A Coruña, España 
 
 ---
 
